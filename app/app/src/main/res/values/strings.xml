@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InfoKampus2</string>
+    <string name="belumakun">Belum Memiliki Akun ? <b>Daftar Sekarang</b>  </string>
+    <string name="sudahakun">Sudah Memiliki Akun ? <b>Masuk</b>  </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
